@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I’m Sidratul Muntaha!
+## 🧠 About Me  
+I am a CSE sophomore at Islamic University of Technology. I like exploring new things and challenging myself!
+- 🧑‍💻 Working on: **Shotorko** , a flutter project.
+- 🎨 Interests: AI/ML, UI designing, and automation.  
+
 
 <!--
 **argyroselene/argyroselene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
