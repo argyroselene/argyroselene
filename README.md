@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sidratul Muntaha!
 ## 🧠 About Me  
-I am a CSE sophomore at Islamic University of Technology. I like exploring new things and challenging myself!
+I am a CSE junior at Islamic University of Technology. I like exploring new things and challenging myself!
 - 🧑‍💻 Working on: **Shotorko** , a flutter project.
 - 🎨 Interests: AI/ML, UI designing, and automation.  
 
