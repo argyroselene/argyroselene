@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sidratul Muntaha!
 ## 🧠 About Me  
-I am a CSE junior at Islamic University of Technology. I like exploring new things and challenging myself!
-- 🧑‍💻 Working on: **ClawMania** , a pygame simulation project.
+I am a CSE junior. I like exploring new things and challenging myself!
+<!-- - 🧑‍💻 Working on: **ClawMania** , a pygame simulation project. -->
 - 🎨 Interests: AI/ML, UI designing, and automation.  
 
 
